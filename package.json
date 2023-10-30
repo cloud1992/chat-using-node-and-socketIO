@@ -1,0 +1,11 @@
+{
+  "name": "chat-using-node-and-socketio",
+  "version": "1.0.0",
+  "description": "web chat using node and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cloud1992",
+  "license": "MIT"
+}
